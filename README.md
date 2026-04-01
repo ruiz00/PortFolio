@@ -4,7 +4,7 @@ A personal portfolio website showcasing my background, skills, certifications, a
 
 ---
 
-##Repository Contents
+## Repository Contents
 
 ```
 ├── index.html       # Main portfolio page (single-page application)
