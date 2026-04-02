@@ -10,6 +10,7 @@ A personal portfolio website showcasing my background, skills, certifications, a
 ├── index.html       # Main portfolio page (single-page application)
 ├── style.css        # Stylesheet for layout and design
 └── bryan.jpeg       # Profile photo
+|__ script.js        # script file for dynamic interaction on the page
 ```
 
 ---
